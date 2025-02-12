@@ -3,9 +3,9 @@
 ## Introduction
 ### Problem statement
 ### Objective of the project
-#Data
-###Description of the dataset
-###Preprocessing steps
+# Data
+### Description of the dataset
+### Preprocessing steps
 # Models
 ### Overview of transformer models used (RoBERTa, BERT, etc.)
 ### Fine-tuning methodology
